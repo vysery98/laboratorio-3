@@ -19,8 +19,25 @@
 ### Correlación de Variables
 ![Heatmap de Variables](./screenshots/Imagen2.png)
 
+### 6 Análisis de deserción por segmentos:
+![Heatmap de Variables](./screenshots/Imagen3.png)
+
+### Visualización 7: Tasa de deserción por país
+![Heatmap de Variables](./screenshots/Imagen4.png)
+
+### Visualización 8: Deserción según actividad del cliente
+![Heatmap de Variables](./screenshots/Imagen5.png)
+
+### Visualización 9: Deserción por número de productos
+![Heatmap de Variables](./screenshots/Imagen6.png)
+
+### Visualización 10: Deserción por rango de edad
+![Heatmap de Variables](./screenshots/Imagen7.png)
+
+
 ## 📂 Requisitos para Ejecutar
 1. Tener instalado **Jupyter Notebook** o **VS Code**.
 2. Instalar las librerías necesarias:
    ```bash
    pip install pandas numpy matplotlib seaborn
+   
