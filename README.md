@@ -12,17 +12,15 @@
 4. **Visualización:** Análisis de distribuciones generales de los clientes.
 
 ## 📸 Evidencias (Resultados del Análisis)
-*(Recuerda guardar tus capturas de los gráficos en una carpeta llamada 'screenshots')*
 
 ### Distribución de la Deserción
-![Gráfico de Churn](./screenshots/evidencia_churn.png)
+![Gráfico de Churn](./screenshots/Imagen1.png)
 
 ### Correlación de Variables
-![Heatmap de Variables](./screenshots/evidencia_correlacion.png)
+![Heatmap de Variables](./screenshots/Imagen2.png)
 
 ## 📂 Requisitos para Ejecutar
 1. Tener instalado **Jupyter Notebook** o **VS Code**.
 2. Instalar las librerías necesarias:
    ```bash
    pip install pandas numpy matplotlib seaborn
-   
